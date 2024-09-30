@@ -6,6 +6,7 @@ I denne opgave skal du bruge dine SASS-færdigheder til at skabe en interaktiv g
 ## Opgavebeskrivelse
 1. **Opsætning af Projekt:**
    - Klon dette repository til din lokale maskine.
+   - Lav en ny branch til at arbejde på, f.eks. `dev`. 
    - Opret en grundlæggende HTML-struktur for din galleri-side.
 
 2. **SASS Struktur:**
@@ -32,12 +33,11 @@ I denne opgave skal du bruge dine SASS-færdigheder til at skabe en interaktiv g
    - Sørg for at din galleri-side er responsiv ved hjælp af media queries i SASS.
 
 6. **Validering:**
-   - Brug en HTML-validator til at sikre, at din side valideres uden fejl. Du kan bruge (W3C Markup Validation Service)[https://validator.w3.org/] til dette formål.
+   - Brug en HTML-validator til at sikre, at din side valideres uden fejl. Du kan bruge [W3C Markup Validation Service](https://validator.w3.org/) til dette formål.
 
 7. **Aflevering:**
-   - Commit og push dit færdige projekt til GitHub.
-   - Opret en README.md fil i dit repository, hvor du beskriver din proces og de SASS-funktioner du har brugt.
-   - Sørg for at dit repository er offentligt tilgængeligt, så din underviser kan tilgå det.
+   - Commit og push dit færdige projekt til din `dev` branch på GitHub.
+   - Lav en pull request til `main`.
 
 ## Vurderingskriterier
 - Korrekt brug af SASS-struktur og -syntaks.
