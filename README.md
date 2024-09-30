@@ -8,6 +8,7 @@ I denne opgave skal du bruge dine SASS-færdigheder til at skabe en interaktiv g
    - Klon dette repository til din lokale maskine.
    - Lav en ny branch til at arbejde på, f.eks. `dev`. 
    - Opret en grundlæggende HTML-struktur for din galleri-side.
+   - Find billeder på f.eks. [Colourbox](https://www.colourbox.com/) eller hent dem dynamisk via et API efter eget valg.
 
 2. **SASS Struktur:**
    - Opret en `scss` mappe i dit projekt.
