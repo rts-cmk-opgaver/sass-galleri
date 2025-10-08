@@ -11,7 +11,7 @@ I denne opgave skal du bruge dine SASS-færdigheder til at skabe en interaktiv g
    - Find billeder på f.eks. [Colourbox](https://www.colourbox.com/) eller hent dem dynamisk via et API efter eget valg.
 
 2. **SASS Struktur:**
-   - Opret en `scss` mappe i dit projekt.
+   - Opret en `style` mappe i dit projekt.
    - Opret følgende SASS-filer:
      - `main.scss` (hovedfilen der importerer de andre filer)
      - `_variables.scss` (til dine variabler som farver, skrifttyper osv.)
